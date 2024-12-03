@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/776b23e7-0ae8-49c3-8e68-1556b8705427
+
 <B> DETECTION-OF-POLYCYSTIC-OVARIES-AND-ITS-STAGES-WITH-CHATBOT </B> <br>
  A comprehensive PCOS (Polycystic Ovary Syndrome) prediction and assistance system, designed to provide accurate diagnosis and stage detection of PCOS. 
  The application integrates neural network models and chatbot technology, deployed using Streamlit for user-friendly interaction.<br><br>
